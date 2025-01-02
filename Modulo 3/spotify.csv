@@ -1,0 +1,9 @@
+<script>start("c:\\Users\\Admin\\Desktop\\Bootcamp de Data Science\\mod3-data-science\\mod3-data-science\\Data\\spotify\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("1950.csv","1950.csv",0,6634,"6.5 kB",1735567760,"12/30/24, 3:09:20 PM");</script>
+<script>addRow("1960.csv","1960.csv",0,9062,"8.8 kB",1735567760,"12/30/24, 3:09:20 PM");</script>
+<script>addRow("1970.csv","1970.csv",0,9152,"8.9 kB",1735567760,"12/30/24, 3:09:20 PM");</script>
+<script>addRow("1980.csv","1980.csv",0,8946,"8.7 kB",1735567760,"12/30/24, 3:09:20 PM");</script>
+<script>addRow("1990.csv","1990.csv",0,7360,"7.2 kB",1735567760,"12/30/24, 3:09:20 PM");</script>
+<script>addRow("2000.csv","2000.csv",0,7987,"7.8 kB",1735567760,"12/30/24, 3:09:20 PM");</script>
+<script>addRow("2010.csv","2010.csv",0,8107,"7.9 kB",1735567760,"12/30/24, 3:09:20 PM");</script>
